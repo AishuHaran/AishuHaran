@@ -8,6 +8,7 @@
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aiswarya-manoharan/) <br/>
 ⚡ Fun fact: I love turning numbers into stories that make an impact! <br/>
 
-# My GitHub Profile Stats
+### My GitHub Profile Stats
 Here are some statistics about my GitHub contributions: <br/>
+
 ![Aishu Haran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AishuHaran&show_icons=true&theme=merko)
