@@ -7,7 +7,8 @@
 💬 Let’s connect to discuss how combining creativity with data can drive better outcomes! <br/>
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aiswarya-manoharan/) <br/>
 ⚡ Fun fact: I love turning numbers into stories that make an impact! <br/>
-🗂️ Check out my projects: [Portfolio](https://github.com/AishuHaran/Data-Science-Project/blob/main/README.md)
+🗂️ Check out my projects: [Data Analysis](https://github.com/AishuHaran/Data-Science-Project/blob/main/README.md), [Machine Learning](https://github.com/AishuHaran/Machine-Learning) and [SQL Challenge](https://github.com/AishuHaran/SQL_Challenge)
+
 
 ### My GitHub Profile Stats
 Here are some statistics about my GitHub contributions: <br/>
